@@ -1,13 +1,13 @@
-***Reddit Bot with Groq AI Integration
+***Reddit Bot with Groq AI Integration***
 
 
 Demo Video-https://drive.google.com/drive/folders/1pqEjpQX0QmSjpf8lFMBkrZY8ODnKQ5aa?usp=sharing
 
 This project automates posting on Reddit using Groq AI for content generation.
 
-**Setup Instructions
+**Setup Instructions**
 
-**Step1. Generate Reddit Credentials
+**Step1. Generate Reddit Credentials**
 
 Visit Reddit's App Preferences
 
@@ -29,13 +29,13 @@ client_id
 
 client_secret
 
-**Step2. Generate Groq API Key
+**Step2. Generate Groq API Key**
 
 Visit the Groq API Portal
 
 Sign in and generate an API key.
 
-**Step3. Create a .env File
+**Step3. Create a .env File**
 
 Create a .env file in the root directory and add the following:
 
@@ -46,7 +46,7 @@ REDDIT_USERNAME="your_username"
 REDDIT_PASSWORD="your_password"
 GROQ_API_KEY="your_groqapi_key"
 
-**Step4. Create a Virtual Environment
+**Step4. Create a Virtual Environment**
 
 Create a virtual environment using Conda:
 
@@ -56,13 +56,13 @@ Activate the environment:
 
 conda activate ./venv
 
-**Step5. Install Requirements
+**Step5. Install Requirements**
 
 Install the necessary packages:
 
 pip install -r requirements.txt
 
-**Step6. Run the Bot
+**Step6. Run the Bot**
 
 Run the bot using:
 
