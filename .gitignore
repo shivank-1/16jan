@@ -1,0 +1,12 @@
+Dr_Paritosh_Orthopedic
+Dr_Shriansh_WoundCare
+Dr_Shivank_Burn_Management
+HealthcareAI.egg-info
+logs
+venv
+.env
+inputImage.jpg
+main.py
+setup.py
+app2.py
+app.py
